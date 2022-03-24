@@ -1,8 +1,8 @@
 ### Olá eu sou o Leonardo Tolentino 👋
 
-- 🌱 Atualmente estou aprendendo Desenvolvimento de software com especialidade em Front End.
+- 🌱 Atualmente estou atuando como Desenvolvimento de software com especialidade em Front End.
 - 🌱 Graduação Sistemas de informação.
-- 🌱 Finalizando a Pós Graduação em Algoritmos e Estruturas de Dados.
+- 🌱 Pós Graduação em Algoritmos e Estruturas de Dados.
 - 📫 ContatA-te pelo e-mail: leonardoleoat@yahoo.com.br
 
 
