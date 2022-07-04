@@ -4,6 +4,7 @@
 - 🌱 Graduação Bacharel em Sistemas de informação.
 - 🌱 Pós Graduação em Algoritmos e Estruturas de Dados.
 - 📫 ContatA-te pelo e-mail: leonardoleoat@yahoo.com.br
+- Contato telefone - 38998600017
 
 
 <div>
